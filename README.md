@@ -62,10 +62,6 @@ This repository contains the analysis of Maven Market's sales, orders, and retur
 
 ---
 
-Below is the customized markdown content that clearly differentiates titles and subtitles—ideal for a Power BI project README.
-
----
-
 # 📂 Files Included
 
 ## Power BI Files
